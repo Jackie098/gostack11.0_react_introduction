@@ -1,0 +1,11 @@
+{
+  "name": "gostack11.0_react_introduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jackie098 <carlosmiranda19122@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
